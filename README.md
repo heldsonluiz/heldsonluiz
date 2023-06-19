@@ -8,5 +8,5 @@ I'm a front-end developer with over 6 years of experience creating web applicati
 I am actively involved in large-scale projects utilizing Vue.js and I am expanding my expertise to specialize in React, React Native, and Node.js. Along the years i have gain experiences in libraries for Vue.js, CSS, JavaScript/TypeScript, and a strong proficiency in GitFlow, Docker and testing processes.
 <br><br>
 
-![Heldson's GitHub stats](https://github-readme-stats.vercel.app/api?username=heldsonluiz&show_icons=true&theme=tokyonight&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com?user=heldsonluiz&theme=tokyonight&hide_border=true&mode=weekly)
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heldsonluiz&theme=tokyonight&hide_border=true&langs_count=8&layout=compact&hide_title=true)
+![Heldson's GitHub stats](https://github-readme-stats.vercel.app/api?username=heldsonluiz&show_icons=true&theme=tokyonight&hide_border=true&card_width=400) ![GitHub Streak](https://streak-stats.demolab.com?user=heldsonluiz&theme=tokyonight&hide_border=true&card_width=425)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heldsonluiz&theme=tokyonight&hide_border=true&langs_count=8&layout=compact&hide_title=true&card_width=865)
