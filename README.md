@@ -11,7 +11,7 @@ I am a front-end developer with over 6 years of experience in creating web appli
 
 <div style="display:flex; flex-direction: column">
 
-  ![My Github stats](https://github-readme-stats.vercel.app/api?username=heldsonluiz&show_icons=true&theme=tokyonight&hide_border=true&card_width=380)![My code streak](https://streak-stats.demolab.com?user=heldsonluiz&theme=tokyonight&hide_border=true&mode=weekly)
+  ![My Github stats](https://github-readme-stats.vercel.app/api?username=heldsonluiz&show_icons=true&theme=tokyonight&hide_border=true&card_width=380)![My code streak](https://streak-stats.demolab.com?user=heldsonluiz&theme=tokyonight&hide_border=true&mode=weekly&ard_width=380)
 </div>
 
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heldsonluiz&theme=tokyonight&hide_border=true&langs_count=8&layout=compact&hide_title=true&card_width=820)
