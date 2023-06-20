@@ -7,9 +7,7 @@
 
 <br>
 I am a front-end developer with over 6 years of experience in creating web applications, as well as managing personal UX/UI projects. I am actively involved in large-scale projects using Vue.js, with experience in Vue.js libraries, CSS, JavaScript/TypeScript, and a strong proficiency in GitFlow, Docker, and testing processes.
-<br><br>
-
-
+<br><br><br>
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=heldsonluiz&show_icons=true&theme=tokyonight&hide_border=true&card_width=300)![My code streak](https://streak-stats.demolab.com?user=heldsonluiz&theme=tokyonight&hide_border=true&mode=weekly&card_width=400)
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heldsonluiz&theme=tokyonight&hide_border=true&langs_count=8&layout=compact&hide_title=true&card_width=840)
